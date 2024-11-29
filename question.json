@@ -1,0 +1,113 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "Farmer Joe is organising crates of apples. What is the face value of the digit 7 in the number 578?",
+      "options": [
+        "7",
+        "70",
+        "700",
+        "0"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q2",
+      "question": "Joe is labelling a crate with the number 605. What is the place value of the digit 5 in that number?",
+      "options": [
+        "5",
+        "50",
+        "500",
+        "5,000"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q3",
+      "question": "In another crate, Joe finds the number 842. What is the face value of the digit 4 in this number?",
+      "options": [
+        "40",
+        "4",
+        "400",
+        "0"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q4",
+      "question": "Joe labels a crate with the number 942. What is the place value of the digit 9 in this number?",
+      "options": [
+        "9",
+        "90",
+        "900",
+        "0"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q5",
+      "question": "Joe checks the number on a crate of apples and sees 732. What is the face value of the digit 2 in this number?",
+      "options": [
+        "20",
+        "0",
+        "200",
+        "2"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q6",
+      "question": "Farmer Joe is organising a crate with the number 453. What is the place value of the digit 3 in this number?",
+      "options": [
+        "3",
+        "30",
+        "300",
+        "0"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q7",
+      "question": "Joe labels another crate with the number 964. What is the face value of the digit 6 in this number?",
+      "options": [
+        "60",
+        "600",
+        "6",
+        "0"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q8",
+      "question": "Joe finds the number 217 on a crate. What is the place value of the digit 1 in this number?",
+      "options": [
+        "1",
+        "10",
+        "100",
+        "0"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q9",
+      "question": "As Farmer Joe sorts a crate with the number 385, what is the face value of the digit 8 in this number?",
+      "options": [
+        "0",
+        "80",
+        "800",
+        "8"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q10",
+      "question": "Joe organises a crate with the number 745. What is the place value of the digit 4 in this number?",
+      "options": [
+        "4",
+        "40",
+        "400",
+        "0"
+      ],
+      "correct": 1
+    }
+  ]
+  
